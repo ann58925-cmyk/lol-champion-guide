@@ -1,0 +1,6 @@
+{
+  "name": "英雄聯盟 · 英雄圖鑑與定位導覽",
+  "description": "探索《英雄聯盟》英雄角色、職業定位、分路、技能機制、經典台詞與數值對比系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
